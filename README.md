@@ -3,6 +3,7 @@
 ### 🚀 Skills
 
 _The ones I'm confident with._
+
 [<img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />](http://www.cplusplus.com/)
 
 ### 📝 Picking up
