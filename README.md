@@ -15,11 +15,12 @@
 [<img alt="Atom" width="26px" src="https://img.icons8.com/clouds/100/000000/atom-editor.png" />](https://atom.io/)
 [<img alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />](https://unity.com/)
 [<img alt="Unreal" width="26px" src="https://img.icons8.com/nolan/64/unreal-engine.png" />](https://www.unrealengine.com/en-US/)
+[<img alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />](https://firebase.google.com/)
 
 
 
 
-### 📝 Picking up
+### Learning
 
 [<img alt="React" width="26px" src="https://img.icons8.com/ultraviolet/50/000000/react.png" />](https://reactjs.org/)
 [<img alt="Javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />](https://www.javascript.com/)
