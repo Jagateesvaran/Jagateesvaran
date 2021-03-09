@@ -23,7 +23,7 @@
 
 [<img alt="React" width="26px" src="https://img.icons8.com/ultraviolet/50/000000/react.png" />](https://reactjs.org/)
 [<img alt="Javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />](https://www.javascript.com/)
-[<img alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />]
-[<img alt="CSS" width="26px" src="https://img.icons8.com/officexs/16/000000/css.png" />]
+[<img alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />](https://devdocs.io/html/)
+[<img alt="CSS" width="26px" src="https://img.icons8.com/officexs/16/000000/css.png" />](https://devdocs.io/css/)
 [<img alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />](https://redux.js.org/introduction/getting-started)
 [<img alt="Wireshark" width="26px" src="https://img.icons8.com/doodle/48/000000/shark.png" />](https://www.wireshark.org/)
