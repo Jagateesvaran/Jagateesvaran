@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Jagatees(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
 <h1 align="center">Hi 👋, I'm K Jagateesvaran Rajoo</h1>
 <h3 align="center">Software / Game Developer - Singapore</h3>
 
