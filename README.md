@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagateesvaran&label=Profile%20views&color=0e75b6&style=flat" alt="jagateesvaran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagateesvaran" alt="jagateesvaran" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/k-jagateesvaran-rajoo-34049017a/](https://www.linkedin.com/in/k-jagateesvaran-rajoo-34049017a/)
 
 - 📫 How to reach me **jagateesvaran@gmail.com**
@@ -24,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagateesvaran&show_icons=true&locale=en" alt="jagateesvaran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagateesvaran&" alt="jagateesvaran" /></p>
-
-
-
