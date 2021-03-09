@@ -28,3 +28,8 @@
 [<img alt="CSS" width="26px" src="https://img.icons8.com/officexs/16/000000/css.png" />](https://devdocs.io/css/)
 [<img alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />](https://redux.js.org/introduction/getting-started)
 [<img alt="Wireshark" width="26px" src="https://img.icons8.com/doodle/48/000000/shark.png" />](https://www.wireshark.org/)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagateesvaran&show_icons=true&locale=en&layout=compact" alt="jagateesvaran" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagateesvaran&show_icons=true&locale=en" alt="jagateesvaran" /></p>
