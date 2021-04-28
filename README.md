@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagateesvaran&label=Profile%20views&color=0e75b6&style=flat" alt="jagateesvaran" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jagateesvaran.wixsite.com/portfolio](https://www.linkedin.com/in/k-jagateesvaran-rajoo-34049017a/)
+- 👨‍💻 All of my projects are available at [https://jagateesvaran.wixsite.com/portfolio](https://jagateesvaran.wixsite.com/portfolio)
 
 - 📫 How to reach me **jagateesvaran@gmail.com**
 
